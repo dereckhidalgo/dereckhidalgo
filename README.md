@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on SIMPLEX ERP at Soteinfo and some personal projects.
 - 🌱 I’m currently learning React.
-- 👯 I’m looking to collaborate on some goods projects.
+- 👯 I’m looking to collaborate on some good projects.
 - 💬 Ask me about whatever you want, if I don't know the answer, i will help you to get it.
 - 📫 How to reach me: dereckhidago27@gmail.com || https://www.linkedin.com/in/dereck-hidalgo-280718
